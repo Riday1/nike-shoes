@@ -1,0 +1,20 @@
+.width-of-img {
+    width: 200px;
+}
+
+.banner-background {
+    background-color: #FFF9F4;
+    /* background-color: red; */
+}
+
+.btn-width {
+    width: 20%vw;
+    background-color: #3A4BE0;
+    color: white;
+
+    padding: 15px 25px;
+}
+
+.shoping-card-icon {
+    width: 30px;
+}
